@@ -12,6 +12,7 @@ function App() {
       <Navbar />
       <p>Hello world</p>
       <h1>Heloo dilu</h1>
+      <p>this feature is added from feature branch from outer user</p>
     </>
   )
 }
