@@ -11,6 +11,7 @@ function App() {
       <p>Hello world</p>
       <h1>Heloo dilu</h1>
       <h2>onsdocnsc</h2>
+      <img src="kuch v" alt="" />
     </>
   )
 }
